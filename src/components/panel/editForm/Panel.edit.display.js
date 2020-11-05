@@ -99,7 +99,7 @@ export default [
         input: true,
         type: 'checkbox',
         label: 'Override breadcrumbSettings.clickable option',
-        key: 'overrideBreadcrumbClickableOption',
+        key: 'overrideBreadcrumbClickable',
         defaultValue: false,
         tooltip: 'Determines if breadcrumbClickable overrides breadcrumbSettings.clickable.',
         conditional: {
